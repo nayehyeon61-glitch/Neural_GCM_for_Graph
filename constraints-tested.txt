@@ -1,0 +1,12 @@
+# Tested with Python 3.12 on CPU. This pins the numerical stack; upstream
+# NeuralGCM, Dinosaur and Terrax source commits are pinned in pyproject.toml.
+jax==0.11.1
+jaxlib==0.11.1
+dm-haiku==0.0.17
+numpy==2.5.4
+scipy==1.18.1
+optax==0.2.8
+flax==0.12.10
+gin-config==0.5.0
+coordax==0.2.9
+pytest==9.1.1

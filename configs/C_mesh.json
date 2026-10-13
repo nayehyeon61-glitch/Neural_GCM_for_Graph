@@ -1,0 +1,10 @@
+{
+  "experiment": "C",
+  "context_mode": "mesh",
+  "latent_size": 32,
+  "message_passing_steps": 4,
+  "film_scale": 0.1,
+  "film_init_scale": 0.0,
+  "mesh_level": 1,
+  "circulation_weight": 0
+}
